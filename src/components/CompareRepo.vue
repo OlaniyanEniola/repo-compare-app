@@ -63,7 +63,7 @@
 <script>
 import Moment from 'moment'
 export default {
-  name: "HelloWorld",
+  name: "CompareRepo",
   props: {
     msg: String
   },
